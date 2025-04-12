@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run API mock
+      - name: Run API mock (in background)
         run: npm run turn-on-api &
       
       - name: Wait for server to start
