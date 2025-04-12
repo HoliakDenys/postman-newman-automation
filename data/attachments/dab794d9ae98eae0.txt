@@ -1,0 +1,7 @@
+{
+    "id": 4,
+    "name": "banana",
+    "price": 155,
+    "sku": 123321123,
+    "description": "changed description"
+}

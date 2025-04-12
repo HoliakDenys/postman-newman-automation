@@ -1,0 +1,6 @@
+{
+    "name": "orange",
+    "price": 8,
+    "sku": 123321123,
+    "description": "wouh"
+}
