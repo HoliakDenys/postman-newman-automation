@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run API mock (in background)
-        run: npm run turn-on-api &
+      - name: Run API mock
+        run: npm run turn-on-api
 
       - name: Run Newman tests
         run: npm run test:postman
